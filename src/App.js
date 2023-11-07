@@ -1,6 +1,6 @@
 import logo from './logo.svg';
-import './Footer'
-import './Header'
+import Footer from './Footer'
+import Header from './Header'
 
 function App() {
   return (
